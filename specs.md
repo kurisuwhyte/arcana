@@ -81,11 +81,11 @@ sign   :: "-" | "+"
 digits :: digit+
 number :: sign? digits ("." digits)
 
-char :: "\\" anything
-stringEscape "\\\""
-stringChar :: (not stringEscape | "\"") anything
-string :: "\"" stringChar* "\""
-symbol :: ":" (not whitespace)+
+char         :: "\\" anything
+stringEscape :: "\\\""
+stringChar   :: (not stringEscape | "\"") anything
+string       :: "\"" stringChar* "\""
+symbol       :: ":" (not whitespace)+
 
 brackets  :: "(" | ")"
 symbols   :: "!" | "@" | "#" | "$" | "%" | "&" | "*" | "-" | "_"
