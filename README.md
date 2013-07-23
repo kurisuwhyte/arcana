@@ -1,8 +1,8 @@
 Arcana
 ======
 
-> The moment man devoured the fruit of knowledge, he sealed his fate...
-> Entrusting his future to the cards, man clings to a dim hope.
+> The moment man devoured the fruit of knowledge, he sealed his fate...  
+> Entrusting his future to the cards, man clings to a dim hope.  
 > Yes, the Arcana is the means by which all is revealed...
 >
 > — Shin Megami Tensei: Persona 3
