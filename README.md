@@ -38,48 +38,107 @@ once again, in the depths of such vision, trying to grok such amazing
 structures — simple, yet intriguing.
 
 
-### III. ?, the Empress
+### III. Scala, the Empress
+
+You have learnt to appreciate the beauty of all the things. Moving
+forward you encounter the grandeur, the brilliance of young lady. Slowly
+you discover her magnificence, and her dominance over all the things.
 
 
+### IV. Haskell, the Emperor
 
-### IV. ?, the Emperor
+( ... )
 
-### V. ?, the Hierophant
 
-### VI. ?, the Lovers
+### V. Smalltalk, the Hierophant
 
-### VII. ?, the Chariot
+( ... )
 
-### VIII. ?, Strength
 
-### IX. ?, the Hermit
+### VI. Ruby, the Lovers
 
-### X. ?, Wheel of Fortune
+( ... )
 
-### XI. ?, the Justice
 
-### XII. ?, the Hanged Man
+### VII. Idris, the Chariot
 
-### XIII. ?, Death
+( ... )
 
-### XIV. ?, Temperance
 
-### XV. ?, the Devil
+### VIII. Rust, Strength
 
-### XVI. ?, the Tower
+( ... )
 
-### XVII. ?, the Star
 
-### XVIII. ?, the Moon
+### IX. Io, the Hermit
 
-### XIX. ?, the Sun
+( ... )
 
-### XX. ?, Judgement
 
-### XXI. ?, the World
+### X. D, Wheel of Fortune
+
+( ... )
+
+
+### XI. Prolog, the Justice
+
+( ... )
+
+
+### XII. Java, the Hanged Man
+
+( ... )
+
+
+### XIII. Erlang, Death
+
+( ... )
+
+
+### XIV. F#, Temperance
+
+( ... )
+
+
+### XV. C++, the Devil
+
+( ... )
+
+
+### XVI. PHP, the Tower
+
+( ... )
+
+
+### XVII. Python, the Star
+
+( ... )
+
+
+### XVIII. Perl, the Moon
+
+( ... )
+
+
+### XIX. Factor, the Sun
+
+( ... )
+
+
+### XX. OCaml, Judgement
+
+( ... )
+
+
+### XXI. Racket, the World
+
+( ... )
 
 
 
 ## Licence
 
 WTFPL.
+
+> **Note:** I'm fairly sure that at least the Fool, the Magician, the
+> Emperor, the Hanged Man, the Devil and the Tower fits perfectly!
