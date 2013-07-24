@@ -41,13 +41,20 @@ structures — simple, yet intriguing.
 ### III. Scala, the Empress
 
 You have learnt to appreciate the beauty of all the things. Moving
-forward you encounter the grandeur, the brilliance of young lady. Slowly
-you discover her magnificence, and her dominance over all the things.
+forward you encounter the grandeur, the brilliance of a young
+lady. Slowly you discover her magnificence, and her dominance over all
+the things. As you dive in, you feel overwhelmed, but you thrive none
+the less.
 
 
 ### IV. Haskell, the Emperor
 
-( ... )
+You reach out for the throne, still full of doubts. But now, more than
+ever, you find like you can find an answer — a correct one. The
+stability is comforting, certainly, and you let yourself drift in a
+world of warms and fuzzies. Sometimes, you feel that things might be a
+little too strict, but that's just a superficial impression, which
+quickly fades as you dive deeper in.
 
 
 ### V. Smalltalk, the Hierophant
